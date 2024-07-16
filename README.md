@@ -9,4 +9,4 @@ Secure Internet Egress Filtering Deployed using a GitOps workflow
 - GitHub account
 - Terraform Cloud account
 
-<img src="![image](https://github.com/user-attachments/assets/a439127f-f4c5-4946-8523-9c6e63e3a4f8)">
+<img src="C:\Users\kjsra\Downloads\terraform.jpeg">
